@@ -1,1 +1,1 @@
-Notebooks used for an emotion multilabel classification task. Used a variety of different models ranging from sizes between 5 million all the way to 13B. 
+Notebooks used for an emotion multilabel classification task by fine tuning LLMs. Used a variety of different models ranging from sizes between 5 million all the way to 13B. There are  additional few tasks such as instruction tuning and zero shot classification performed as well.
